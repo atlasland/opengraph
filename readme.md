@@ -2,6 +2,8 @@
 
 An Open Graph parser for Deno.
 
+> ⚠️ This project is unstable and actively being developed. Use with caution.
+
 ## Usage
 
 ```ts
